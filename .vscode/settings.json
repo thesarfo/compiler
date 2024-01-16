@@ -4,6 +4,7 @@
     "gen.c": "cpp",
     "local.c": "cpp",
     "main.c": "cpp",
-    "op.c": "cpp"
+    "op.c": "cpp",
+    "YYOUT.C": "cpp"
   }
 }
