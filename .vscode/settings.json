@@ -1,9 +1,9 @@
 {
   "files.associations": {
-    "DECL.C": "cpp",
-    "GEN.C": "cpp",
-    "LOCAL.C": "cpp",
-    "MAIN.C": "cpp",
-    "OP.C": "cpp"
+    "decl.c": "cpp",
+    "gen.c": "cpp",
+    "local.c": "cpp",
+    "main.c": "cpp",
+    "op.c": "cpp"
   }
 }
