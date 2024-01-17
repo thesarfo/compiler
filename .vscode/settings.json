@@ -5,6 +5,8 @@
     "local.c": "cpp",
     "main.c": "cpp",
     "op.c": "cpp",
-    "YYOUT.C": "cpp"
+    "YYOUT.C": "cpp",
+    "SWITCH.C": "cpp",
+    "SYMTAB.C": "cpp"
   }
 }
