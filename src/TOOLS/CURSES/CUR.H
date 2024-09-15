@@ -1,4 +1,3 @@
-/*@A (C) 1992 Allen I. Holub                                                */
 #ifndef __CUR_H
 #define __CUR_H
 
