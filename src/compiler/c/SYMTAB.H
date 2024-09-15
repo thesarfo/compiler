@@ -1,4 +1,3 @@
-/*@A (C) 1992 Allen I. Holub                                                */
 #ifndef __SYMTAB_H
 #define __SYMTAB_H
 
