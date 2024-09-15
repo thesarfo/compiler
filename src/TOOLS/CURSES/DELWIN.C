@@ -1,4 +1,3 @@
-/*@A (C) 1992 Allen I. Holub                                                */
 #include "cur.h"
 
 void delwin( win )

@@ -1,4 +1,3 @@
-/*@A (C) 1992 Allen I. Holub                                                */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
